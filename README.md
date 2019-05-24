@@ -67,6 +67,7 @@ Overview
 ========
 
 ![overview](documentation/manual&guides/images/Roseguarden_Overview.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstep21%2Froseguarden.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstep21%2Froseguarden?ref=badge_shield)
 
 
 
@@ -442,3 +443,7 @@ License
 =======
 
 RoseGuarden is published under the terms of the GPL v3 license. See [LICENSE](LICENSE).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstep21%2Froseguarden.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstep21%2Froseguarden?ref=badge_large)
